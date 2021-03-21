@@ -1,2 +1,2 @@
 # Intermediate-Python
-Codes from Intermediate Python course.
+Intermediate/ Advanced Python codes.
